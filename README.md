@@ -159,9 +159,11 @@ print(classification_report(testing_b,predicted_values))
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/9e16ca3c-4d80-4ba7-8b1d-a27f2a1a1c91)
-![image](https://github.com/user-attachments/assets/db41c359-7c26-482f-b0ca-c580b8c7670c)
-![image](https://github.com/user-attachments/assets/c3762d37-7e1e-4136-9f96-5abe7dd3c36e)
+
+![image](https://github.com/user-attachments/assets/1408d23a-53f1-4c23-9ad1-3bbfa9ee8385)
+![image](https://github.com/user-attachments/assets/084f22b0-b4a3-4b7b-82cf-889a8c23d360)
+![image](https://github.com/user-attachments/assets/581dab81-52ed-456b-ad11-511fb8e1aeca)
+
 
 <H3>Program:</H3> 
 ```py
@@ -204,9 +206,13 @@ print(confusion_matrix(testing_b,predicted_values))
 print(classification_report(testing_b,predicted_values))
 ```
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/855616c6-ee0f-43e3-9795-3f18cc2f2dde)
-![image](https://github.com/user-attachments/assets/13b39b02-0ed7-4ef1-86e7-070a931da2a7)
-![image](https://github.com/user-attachments/assets/775c01f2-11b2-43c9-8006-c8075e5f0ccf)
+
+![image](https://github.com/user-attachments/assets/545b9aa8-8cf2-4ff0-a8dd-4a52a855474c)
+
+![image](https://github.com/user-attachments/assets/1dc178aa-0369-47f7-acb7-edfae8a50235)
+
+![image](https://github.com/user-attachments/assets/c108b35a-09b3-43de-88eb-70a6076ee5d8)
+
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
