@@ -161,7 +161,11 @@ print(classification_report(testing_b,predicted_values))
 
 ![image](https://github.com/user-attachments/assets/1408d23a-53f1-4c23-9ad1-3bbfa9ee8385)
 
+### CONFUSION MATRIX
+
 ![image](https://github.com/user-attachments/assets/084f22b0-b4a3-4b7b-82cf-889a8c23d360)
+
+### CLASSIFICATION REPORT
 
 ![image](https://github.com/user-attachments/assets/581dab81-52ed-456b-ad11-511fb8e1aeca)
 
@@ -214,7 +218,7 @@ print(classification_report(testing_b,predicted_values))
 
 ![image](https://github.com/user-attachments/assets/545b9aa8-8cf2-4ff0-a8dd-4a52a855474c)
 
-### cLASSIFICATION REPORT
+### CLASSIFICATION REPORT
 
 ![image](https://github.com/user-attachments/assets/c108b35a-09b3-43de-88eb-70a6076ee5d8)
 
