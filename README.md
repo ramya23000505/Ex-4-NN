@@ -207,9 +207,11 @@ print(classification_report(testing_b,predicted_values))
 ```
 <H3>Output:</H3>
 
-![image](https://github.com/user-attachments/assets/545b9aa8-8cf2-4ff0-a8dd-4a52a855474c)
-
 ![image](https://github.com/user-attachments/assets/1dc178aa-0369-47f7-acb7-edfae8a50235)
+
+### CONFUSION MATRIX
+
+![image](https://github.com/user-attachments/assets/545b9aa8-8cf2-4ff0-a8dd-4a52a855474c)
 
 ![image](https://github.com/user-attachments/assets/c108b35a-09b3-43de-88eb-70a6076ee5d8)
 
