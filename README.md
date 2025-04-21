@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/46bf363a-da2b-40e0-a3d4-a745feec9dd5)
 <H3> NAME: RAMYA R</H3>
 <H3> REGISTER NO: 212223230169</H3>
 <H3>EX. NO.4</H3>
@@ -161,7 +160,9 @@ print(classification_report(testing_b,predicted_values))
 <H3>Output:</H3>
 
 ![image](https://github.com/user-attachments/assets/1408d23a-53f1-4c23-9ad1-3bbfa9ee8385)
+
 ![image](https://github.com/user-attachments/assets/084f22b0-b4a3-4b7b-82cf-889a8c23d360)
+
 ![image](https://github.com/user-attachments/assets/581dab81-52ed-456b-ad11-511fb8e1aeca)
 
 
@@ -212,6 +213,8 @@ print(classification_report(testing_b,predicted_values))
 ### CONFUSION MATRIX
 
 ![image](https://github.com/user-attachments/assets/545b9aa8-8cf2-4ff0-a8dd-4a52a855474c)
+
+### cLASSIFICATION REPORT
 
 ![image](https://github.com/user-attachments/assets/c108b35a-09b3-43de-88eb-70a6076ee5d8)
 
